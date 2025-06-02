@@ -138,7 +138,7 @@
           }
         },
         "responses": {
-          "201": {
+          "200": {
             "description": "Product created successfully"
           }
         }
